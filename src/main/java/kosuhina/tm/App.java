@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import static kosuhina.tm.constant.TerminalConst.*;
 
-public class Main {
+public class App {
 
     public static void main(final String[] args) {
        System.out.println(Arrays.toString(args));
