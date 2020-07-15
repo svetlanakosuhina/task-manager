@@ -1,8 +1,8 @@
-h1 TASK-MANAGER
+<h1> TASK-MANAGER
 
 Учебный проект в рамках курса JAVA SPING.
 
-h2 Требования к sowtware
+<h2> Требования к sowtware
 
   Openjdk version "11"
   Apache Maven-3.6.3
