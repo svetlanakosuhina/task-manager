@@ -9,8 +9,7 @@
     <version>1.0.0</version>
 
     <name>task-manager</name>
-    <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
+
     <developers>
         <developer>
             <id>kosuhina_sy</id>
