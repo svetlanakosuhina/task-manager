@@ -5,6 +5,7 @@ TASK-MANAGER
 Требования к sowtware
 --------------------------
   Openjdk version "11"
+  
   Apache Maven-3.6.3
 
 Описание стека технологий
