@@ -1,4 +1,4 @@
-package kosuhina_sy.tm;
+package kosuhina.tm;
 
 import static org.junit.Assert.assertTrue;
 
