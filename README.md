@@ -76,7 +76,7 @@
   
   exit - выход из приложения
   
-## Репозиторий на itHub <a name="github"> <a/>
+## Зеркальный репозиторий на GitHub <a name="github"> <a/>
 
   <https://github.com/svetlanakosuhina/task-manager>    
 
