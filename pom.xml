@@ -41,7 +41,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>kosuhina.tm.App</mainClass>
+                            <mainClass>kosuhina.tm.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

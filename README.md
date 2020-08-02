@@ -20,6 +20,8 @@
 
 * [Поддерживаемые терминальные команды](#терминальные команды)
 
+* [Репозиторий на GitHub](#github)
+
 
 
 ## Требования к software <a name = "software"> <a/> 
@@ -74,7 +76,9 @@
   
   exit - выход из приложения
   
-    
+## Репозиторий на itHub <a name="github"> <a/>
+
+  <https://github.com/svetlanakosuhina/task-manager>    
 
 
 
